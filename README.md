@@ -55,14 +55,9 @@ const config = {
 ```
 13. After installing the http-server package, you just need to “cd” to your project’s directory and run “http-server .”
 
-Questions about running the demo? [Open an issue](https://github.com/hieptl/javascript-chat-app/issues). We're here to help ✌️
+
 
 ## Useful links
 
-- 🏠 [CometChat Homepage](https://app.cometchat.com/signup)
-- 🏠 [CometChat Widget](https://prodocs.cometchat.com/v2.1/docs/web-chat-widget)
-- 🚀 [Create your free account](https://app.cometchat.com/apps)
-- 📚 [Documentation](https://prodocs.cometchat.com)
-- 👾 [GitHub](https://www.github.com/cometchat-pro)
-- 🔥 [Firebase](https://console.firebase.google.com)
-- ✨ [Live Demo](https://javascript-chat-app.glitch.me)
+
+- ✨ [Live Demo](https://yogichat.netlify.app/)
